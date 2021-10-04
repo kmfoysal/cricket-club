@@ -1,0 +1,34 @@
+[
+  {
+    "serviceName": "Coaching For Kids and Teens",
+    "description": "Our cricket coaching for kids and teens are a great way to improve their flexibility and agility.",
+    "servicePrice": 150,
+    "coachName": "Jonty Rhodes",
+    "batchTime": "Sat & Thu : 7:00am - 10:00am",
+    "serviceImg": "https://images.pexels.com/photos/3628912/pexels-photo-3628912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "serviceName": "Personal Coaching",
+    "description": "Book your first personal training at Cricket club and start practicing and improving skills.",
+    "servicePrice": 300,
+    "coachName": "Dav Whatmore",
+    "batchTime": "Fri & Wed : 3:00pm - 5:00pm",
+    "serviceImg": "https://images.pexels.com/photos/4770740/pexels-photo-4770740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "serviceName": "Rent Cricket Ground",
+    "description": "At our club, you can easily rent a badminton court at an affordable price.",
+    "servicePrice": 990,
+    "coachName": "Mohammad Salahuddin",
+    "batchTime": "Available Day : Sun, Mon & Tue",
+    "serviceImg": "https://images.pexels.com/photos/61135/pexels-photo-61135.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "serviceName": "Grouped Coaching",
+    "description": "Book your first grouped training at Cricket club and start improving skills at affordable price",
+    "servicePrice": 200,
+    "coachName": "Curtly Ambrose",
+    "batchTime": "Fri & Wed : 7:00am - 11:00am",
+    "serviceImg": "https://images.pexels.com/photos/7680896/pexels-photo-7680896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  }
+]

@@ -15,8 +15,8 @@ const Footer = () => {
 
 
     return (
-        <div className='text-center bg-black pt-5'>
-            <Container>
+        <div className='text-center bg-black'>
+            <Container className=' py-5'>
                 <Row>
                     <Col>
                         <h3 className='text-white mb-3'>Follow Us On</h3>
@@ -43,8 +43,8 @@ const Footer = () => {
                     </Col>
                 </Row>
             </Container>
-            <div className='py-3 bg-dark'>
-                <p className='m-0 text-light'>The Cricket Club &copy; 2021 | Developed By <strong>K.M FOYSAL</strong> </p>
+            <div className='py-3 bg-warning'>
+                <p className='m-0 text-dark'>The Cricket Club &copy; 2021 | Developed By <strong>K.M FOYSAL</strong> </p>
             </div>
         </div>
     );

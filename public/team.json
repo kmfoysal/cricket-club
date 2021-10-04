@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dav Whatmore",
+    "role": "Main Coach",
+    "agr": 45,
+    "profileImg": "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/08/Dav-Whatmore.jpg?compress=true&quality=80&w=480&dpr=2.6"
+  },
+  {
+    "name": "Mohammad Salahuddin",
+    "role": "Assistant Coach",
+    "agr": 43,
+    "profileImg": "https://thedailynewnation.com/library/1444060819_0.jpg"
+  },
+  {
+    "name": "Herschelle Gibbs",
+    "role": "Batting Coach",
+    "agr": 40,
+    "profileImg": "https://e1.365dm.com/07/10/800x600/Herschelle_Gibbs_589197.jpg?20071026053704"
+  },
+  {
+    "name": "Jonty Rhodes",
+    "role": "Fielding Coach",
+    "agr": 42,
+    "profileImg": "https://c.ndtvimg.com/2019-07/n8nfod7_jonty-rhodes-afp_625x300_24_July_19.jpg"
+  },
+  {
+    "name": "Curtly Ambrose",
+    "role": "Bowling Coach",
+    "agr": 55,
+    "profileImg": "https://img.cricketworld.com/images/f-048680/curtly-ambrose.jpg"
+  },
+  {
+    "name": "Dr Debashis Chowdhury",
+    "role": "Phisyo",
+    "agr": 41,
+    "profileImg": "https://www.cricfrenzy.com/imagestorages/app/e95e9a233ab61539403ce5296cf386c2_new_thumb.jpg"
+  }
+]

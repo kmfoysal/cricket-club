@@ -1,15 +1,16 @@
-.hero-bg {
+.about-bg {
   position: relative;
-  background-image: url(../../images/bg.jpg);
+  background-image: url(../../images/about.jpg);
   background-position: right top;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 100vh;
+  height: 400px;
+  text-align: center;
   z-index: 2;
 }
 
-.hero-bg::before {
+.about-bg::before {
   position: absolute;
   content: "";
   width: 100%;
@@ -21,15 +22,15 @@
   z-index: -1;
 }
 
-.hero-bg h2 {
-  font-size: 50px;
+.about-bg h3 {
+  font-size: 42px;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
-.display-service {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  justify-items: center;
-  gap: 30px;
+.about-bg p {
+  font-size: 18px;
+  color: #fff;
+  width: 60%;
+  margin: 0 auto;
 }
