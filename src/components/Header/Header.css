@@ -1,0 +1,14 @@
+.menu-bar {
+  z-index: 10;
+  background-color: orange;
+}
+
+.menu-link {
+  color: #000 !important;
+  font-size: 18px;
+}
+
+.menu-link:hover {
+  color: #fff !important;
+  transition: linear 0.4s;
+}
