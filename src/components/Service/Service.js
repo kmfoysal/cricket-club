@@ -6,7 +6,8 @@ const Service = (props) => {
     const {serviceName, serviceImg, description, servicePrice} = props.service;
     return (
         
-        <Card className='text-center shadow'>
+        <div>
+            <Card className='text-center shadow my-3'>
             <Card.Img variant="top" src= {serviceImg}/>
             <Card.Body>
                 <Card.Title className='fs-5'>{serviceName}</Card.Title>
@@ -15,6 +16,7 @@ const Service = (props) => {
                 <NavLink to='/services'><button className='btn btn-warning mx-auto'>Learn More</button></NavLink>
             </Card.Body>
         </Card>
+        </div>
     );
 };
 

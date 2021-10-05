@@ -1,5 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
 
 const Batch = (props) => {
     const {serviceName,description,servicePrice,coachName,batchTime,serviceImg} = props.service;
@@ -19,7 +20,7 @@ const Batch = (props) => {
                             <h6>{batchTime}</h6>
                             <p>With <strong className='text-danger'>{coachName}</strong></p>
                             <h6 className='mb-3'>START FROM ${servicePrice}</h6>
-                            <button className='btn btn-outline-success px-5'>REGISTER</button>
+                            <NavLink to='/contact'><button className='btn btn-outline-success px-5'>INQUIRY</button></NavLink>
                         </Col>
                     </div>
                 </Row>

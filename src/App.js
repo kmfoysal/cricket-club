@@ -11,7 +11,7 @@ import Services from './components/Services/Services';
 
 function App() {
   return (
-    <div className="">
+    <div className="font-link">
       <Router>
       <Header></Header>
         <Switch>

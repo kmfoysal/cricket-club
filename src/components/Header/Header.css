@@ -4,8 +4,9 @@
 }
 
 .menu-link {
-  color: #000 !important;
+  color: #000;
   font-size: 18px;
+  font-weight: 500;
 }
 
 .menu-link:hover {

@@ -1,6 +1,6 @@
 [
   {
-    "serviceName": "Coaching For Kids and Teens",
+    "serviceName": "Kids and Teens Coaching",
     "description": "Our cricket coaching for kids and teens are a great way to improve their flexibility and agility.",
     "servicePrice": 150,
     "coachName": "Jonty Rhodes",
@@ -17,7 +17,7 @@
   },
   {
     "serviceName": "Rent Cricket Ground",
-    "description": "At our club, you can easily rent a badminton court at an affordable price.",
+    "description": "At our club, you can easily rent a badminton court at an affordable price & regular day.",
     "servicePrice": 990,
     "coachName": "Mohammad Salahuddin",
     "batchTime": "Available Day : Sun, Mon & Tue",
@@ -25,7 +25,7 @@
   },
   {
     "serviceName": "Grouped Coaching",
-    "description": "Book your first grouped training at Cricket club and start improving skills at affordable price",
+    "description": "Book your grouped training at Cricket club and start improving skills at affordable price",
     "servicePrice": 200,
     "coachName": "Curtly Ambrose",
     "batchTime": "Fri & Wed : 7:00am - 11:00am",

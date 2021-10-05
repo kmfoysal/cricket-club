@@ -1,3 +1,7 @@
+.font-link {
+  font-family: "Montserrat", sans-serif;
+}
+
 .about-bg {
   position: relative;
   background-image: url(../../images/about.jpg);
@@ -5,9 +9,10 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 400px;
+  min-height: 400px;
   text-align: center;
   z-index: 2;
+  padding: 50px 0;
 }
 
 .about-bg::before {

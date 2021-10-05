@@ -8,7 +8,7 @@ const About = () => {
     const [teams] = useTeams();
     
     return (
-        <div>
+        <div className='font-link'>
             <div className='about-bg'>
                 <Container>
                     <Row className='align-items-center' style={{height:'400px'}}>
@@ -37,7 +37,7 @@ const About = () => {
                <Container className='py-5'>
                    <Row className='text-center'>
                        <h3 className='fs-1 mb-4'>Meet Our Team</h3>
-                       <p className='px-5 mb-4 text-muted w-50 mx-auto'>Repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendisat vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+                       <p className='lg-px-5 mb-4 text-muted w-50 mx-auto'>Repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendisat vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
                        
                        <div>
                             <Col className='row row-cols-lg-3 row-cols-md-2 row-cols-sm-1'>
